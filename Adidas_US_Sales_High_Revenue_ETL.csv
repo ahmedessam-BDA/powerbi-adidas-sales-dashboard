@@ -1,0 +1,494 @@
+Retailer,RetailerID,InvoiceDate,Region,State,City,Product,UnitPrice,Quantity,Revenue,OP,OPM,Method,Year,Month
+Foot Locker,1185732,2020-01-01,Northeast,New York,New York,Men's Street Footwear,50,1200,600000,300000,0.5,In-store,2020,Jan
+Foot Locker,1185732,2020-01-02,Northeast,New York,New York,Men's Athletic Footwear,50,1000,500000,150000,0.3,In-store,2020,Jan
+Foot Locker,1185732,2020-01-03,Northeast,New York,New York,Women's Street Footwear,40,1000,400000,140000,0.35000000000000003,In-store,2020,Jan
+Foot Locker,1185732,2020-01-05,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,0.3,In-store,2020,Jan
+Foot Locker,1185732,2020-01-06,Northeast,New York,New York,Women's Apparel,50,1000,500000,125000,0.25,In-store,2020,Jan
+Foot Locker,1185732,2020-01-07,Northeast,New York,New York,Men's Street Footwear,50,1250,625000,312500,0.5,In-store,2020,Jan
+Foot Locker,1185732,2020-01-08,Northeast,New York,New York,Men's Athletic Footwear,50,900,450000,135000,0.3,Outlet,2020,Jan
+Foot Locker,1185732,2020-01-23,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,0.3,Outlet,2020,Jan
+Foot Locker,1185732,2020-01-24,Northeast,New York,New York,Women's Apparel,50,1000,500000,125000,0.25,Outlet,2020,Jan
+Foot Locker,1185732,2020-01-25,Northeast,New York,New York,Men's Street Footwear,50,1220,610000,305000,0.5,Outlet,2020,Jan
+Foot Locker,1185732,2020-01-26,Northeast,New York,New York,Men's Athletic Footwear,50,925,462500,138750,0.3,Outlet,2020,Jan
+Foot Locker,1185732,2020-01-29,Northeast,New York,New York,Men's Apparel,60,850,510000,153000,0.3,Outlet,2020,Jan
+Foot Locker,1185732,2020-01-30,Northeast,New York,New York,Women's Apparel,50,950,475000,118750,0.25,Outlet,2020,Jan
+Foot Locker,1185732,2020-01-31,Northeast,New York,New York,Men's Street Footwear,50,1200,600000,300000,0.5,Outlet,2020,Jan
+Foot Locker,1185732,2020-02-01,Northeast,New York,New York,Men's Athletic Footwear,50,900,450000,135000,0.3,Outlet,2020,Feb
+Foot Locker,1185732,2020-02-04,Northeast,New York,New York,Men's Apparel,60,825,495000,148500,0.3,Outlet,2020,Feb
+Foot Locker,1185732,2020-02-05,Northeast,New York,New York,Women's Apparel,50,950,475000,118750,0.25,Outlet,2020,Feb
+Foot Locker,1185732,2020-02-07,Northeast,New York,New York,Men's Athletic Footwear,55,925,508750,152625,0.3,Outlet,2020,Feb
+Foot Locker,1185732,2020-02-08,Northeast,New York,New York,Women's Street Footwear,50,900,450000,157500,0.35000000000000003,Outlet,2020,Feb
+Foot Locker,1185732,2020-02-09,Northeast,New York,New York,Women's Athletic Footwear,50,850,425000,148750,0.35000000000000003,Outlet,2020,Feb
+Foot Locker,1185732,2020-02-10,Northeast,New York,New York,Men's Apparel,60,875,525000,157500,0.3,Outlet,2020,Feb
+Foot Locker,1185732,2020-03-03,Northeast,New York,New York,Women's Apparel,65,1000,650000,162500,0.25,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-05,Northeast,New York,New York,Men's Athletic Footwear,55,1000,550000,165000,0.3,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-06,Northeast,New York,New York,Women's Street Footwear,50,925,462500,161875,0.35000000000000003,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-07,Northeast,New York,New York,Women's Athletic Footwear,50,900,450000,157500,0.35000000000000003,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-08,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,0.3,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-09,Northeast,New York,New York,Women's Apparel,65,1050,682500,170625,0.25,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-11,Northeast,New York,New York,Men's Athletic Footwear,55,1025,563750,169125,0.3,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-12,Northeast,New York,New York,Women's Street Footwear,50,950,475000,166250,0.35000000000000003,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-13,Northeast,New York,New York,Women's Athletic Footwear,50,900,450000,157500,0.35000000000000003,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-14,Northeast,New York,New York,Men's Apparel,60,925,555000,166500,0.3,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-17,Northeast,New York,New York,Men's Athletic Footwear,55,1025,563750,169125,0.3,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-18,Northeast,New York,New York,Women's Street Footwear,50,950,475000,166250,0.35000000000000003,Outlet,2020,Mar
+Foot Locker,1185732,2020-03-31,Northeast,New York,New York,Women's Athletic Footwear,50,925,462500,161875,0.35000000000000003,Outlet,2020,Mar
+Walmart,1185732,2020-04-17,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,0.3,Outlet,2020,Apr
+Walmart,1185732,2020-04-18,Northeast,New York,New York,Women's Apparel,65,1075,698750,174688,0.25,Outlet,2020,Apr
+Walmart,1185732,2020-04-20,Northeast,New York,New York,Men's Athletic Footwear,55,1000,550000,165000,0.3,Outlet,2020,Apr
+Walmart,1185732,2020-04-21,Northeast,New York,New York,Women's Street Footwear,50,925,462500,161875,0.35000000000000003,Outlet,2020,Apr
+Walmart,1185732,2020-04-22,Northeast,New York,New York,Women's Athletic Footwear,50,900,450000,157500,0.35000000000000003,Outlet,2020,Apr
+Walmart,1185732,2020-04-23,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,0.3,Outlet,2020,Apr
+Walmart,1185732,2020-04-24,Northeast,New York,New York,Women's Apparel,65,1000,650000,162500,0.25,Outlet,2020,Apr
+Walmart,1185732,2020-04-25,Northeast,New York,New York,Men's Apparel,65,875,568750,170625,0.3,Outlet,2020,Apr
+Walmart,1185732,2020-04-26,Northeast,New York,New York,Women's Apparel,70,1000,700000,175000,0.25,Outlet,2020,Apr
+Walmart,1185732,2020-04-28,Northeast,New York,New York,Men's Athletic Footwear,55,975,536250,160875,0.3,Outlet,2020,Apr
+Walmart,1185732,2020-04-29,Northeast,New York,New York,Women's Street Footwear,55,920,506000,177100,0.35000000000000003,Outlet,2020,Apr
+Walmart,1185732,2020-04-30,Northeast,New York,New York,Women's Athletic Footwear,55,900,495000,173250,0.35000000000000003,Outlet,2020,Apr
+Walmart,1185732,2020-05-01,Northeast,New York,New York,Men's Apparel,65,875,568750,170625,0.3,Outlet,2020,May
+Walmart,1185732,2020-05-02,Northeast,New York,New York,Women's Apparel,70,975,682500,170625,0.25,Outlet,2020,May
+Walmart,1185732,2020-05-04,Northeast,New York,New York,Men's Athletic Footwear,55,1000,550000,165000,0.3,Outlet,2020,May
+Walmart,1185732,2020-05-05,Northeast,New York,New York,Women's Street Footwear,55,950,522500,182875,0.35000000000000003,Outlet,2020,May
+Walmart,1185732,2020-05-06,Northeast,New York,New York,Women's Athletic Footwear,55,900,495000,173250,0.35000000000000003,Outlet,2020,May
+Walmart,1185732,2020-05-07,Northeast,New York,New York,Men's Apparel,65,900,585000,175500,0.3,Outlet,2020,May
+Walmart,1185732,2020-07-18,Northeast,New York,New York,Women's Apparel,70,1000,700000,175000,0.25,Outlet,2020,Jul
+Walmart,1197831,2020-08-19,South,Texas,Houston,Men's Athletic Footwear,45,950,427500,149625,0.35000000000000003,Outlet,2020,Aug
+Walmart,1197831,2020-08-23,South,Texas,Houston,Women's Apparel,50,1000,500000,250000,0.5,Outlet,2020,Aug
+Walmart,1197831,2020-08-25,South,Texas,Houston,Men's Athletic Footwear,45,950,427500,149625,0.35000000000000003,Outlet,2020,Aug
+Walmart,1197831,2020-08-26,South,Texas,Houston,Women's Street Footwear,40,1100,440000,154000,0.35000000000000003,Outlet,2020,Aug
+Walmart,1197831,2020-08-29,South,Texas,Houston,Women's Apparel,50,975,487500,243750,0.5,Outlet,2020,Aug
+Walmart,1197831,2020-08-31,South,Texas,Houston,Men's Athletic Footwear,45,925,416250,145688,0.35000000000000003,Outlet,2020,Aug
+Walmart,1197831,2020-09-01,South,Texas,Houston,Women's Street Footwear,40,1100,440000,154000,0.35000000000000003,Outlet,2020,Sep
+Walmart,1197831,2020-09-04,South,Texas,Houston,Women's Apparel,50,900,450000,225000,0.5,Outlet,2020,Sep
+Walmart,1197831,2020-09-07,South,Texas,Houston,Women's Street Footwear,50,900,450000,157500,0.35000000000000003,Outlet,2020,Sep
+Walmart,1197831,2020-09-10,South,Texas,Houston,Women's Apparel,55,850,467500,233750,0.5,Outlet,2020,Sep
+Walmart,1197831,2020-09-16,South,Texas,Houston,Women's Apparel,55,750,412500,206250,0.5,Outlet,2020,Sep
+Walmart,1197831,2020-10-20,South,Texas,Houston,Men's Street Footwear,45,900,405000,141750,0.35000000000000003,Outlet,2020,Oct
+Walmart,1197831,2020-10-21,South,Texas,Houston,Men's Athletic Footwear,45,900,405000,141750,0.35000000000000003,Outlet,2020,Oct
+Walmart,1197831,2020-10-22,South,Texas,Houston,Women's Street Footwear,50,825,412500,144375,0.35000000000000003,Outlet,2020,Oct
+Walmart,1197831,2020-10-25,South,Texas,Houston,Women's Apparel,55,850,467500,233750,0.5,Outlet,2020,Oct
+Walmart,1197831,2020-10-26,South,Texas,Houston,Men's Street Footwear,45,950,427500,149625,0.35000000000000003,Outlet,2020,Oct
+Walmart,1197831,2020-10-27,South,Texas,Houston,Men's Athletic Footwear,45,950,427500,149625,0.35000000000000003,Outlet,2020,Oct
+Walmart,1197831,2020-10-28,South,Texas,Houston,Women's Street Footwear,50,850,425000,148750,0.35000000000000003,Outlet,2020,Oct
+Walmart,1197831,2020-10-31,South,Texas,Houston,Women's Apparel,55,900,495000,247500,0.5,Outlet,2020,Oct
+West Gear,1128299,2020-11-13,West,California,San Francisco,Men's Street Footwear,50,850,425000,148750,0.35000000000000003,Outlet,2020,Nov
+West Gear,1128299,2020-11-14,West,California,San Francisco,Men's Athletic Footwear,60,700,420000,84000,0.2,Outlet,2020,Nov
+West Gear,1128299,2020-11-15,West,California,San Francisco,Women's Street Footwear,60,700,420000,147000,0.35000000000000003,Outlet,2020,Nov
+West Gear,1128299,2020-12-24,West,California,San Francisco,Women's Apparel,60,700,420000,63000,0.15,Outlet,2020,Dec
+West Gear,1128299,2020-12-25,West,California,San Francisco,Men's Street Footwear,60,875,525000,183750,0.35000000000000003,Outlet,2020,Dec
+West Gear,1128299,2020-12-26,West,California,San Francisco,Men's Athletic Footwear,65,675,438750,87750,0.2,Outlet,2020,Dec
+West Gear,1128299,2020-12-27,West,California,San Francisco,Women's Street Footwear,65,725,471250,164938,0.35000000000000003,Outlet,2020,Dec
+West Gear,1128299,2020-12-30,West,California,San Francisco,Women's Apparel,80,700,560000,84000,0.15,Outlet,2020,Dec
+West Gear,1128299,2020-12-31,West,California,San Francisco,Men's Street Footwear,60,900,540000,216000,0.4,Outlet,2020,Dec
+West Gear,1128299,2021-01-01,West,California,San Francisco,Men's Athletic Footwear,65,750,487500,121875,0.25,Outlet,2021,Jan
+West Gear,1128299,2021-01-02,West,California,San Francisco,Women's Street Footwear,65,750,487500,195000,0.4,Outlet,2021,Jan
+West Gear,1128299,2021-01-05,West,California,San Francisco,Women's Apparel,80,725,580000,116000,0.2,Outlet,2021,Jan
+West Gear,1128299,2021-01-06,West,California,San Francisco,Men's Street Footwear,60,975,585000,234000,0.4,Outlet,2021,Jan
+West Gear,1128299,2021-01-07,West,California,San Francisco,Men's Athletic Footwear,65,825,536250,134063,0.25,Outlet,2021,Jan
+West Gear,1128299,2021-01-08,West,California,San Francisco,Women's Street Footwear,65,825,536250,214500,0.4,Outlet,2021,Jan
+West Gear,1128299,2021-01-09,West,California,San Francisco,Women's Athletic Footwear,60,700,420000,147000,0.35000000000000003,Outlet,2021,Jan
+West Gear,1128299,2021-01-11,West,California,San Francisco,Women's Apparel,80,875,700000,140000,0.2,Outlet,2021,Jan
+West Gear,1128299,2021-01-12,West,California,San Francisco,Men's Street Footwear,60,1025,615000,215250,0.35000000000000003,Outlet,2021,Jan
+West Gear,1128299,2021-01-13,West,California,San Francisco,Men's Athletic Footwear,65,875,568750,113750,0.2,Outlet,2021,Jan
+West Gear,1128299,2021-01-14,West,California,San Francisco,Women's Street Footwear,65,825,536250,187688,0.35000000000000003,Outlet,2021,Jan
+West Gear,1128299,2021-01-15,West,California,San Francisco,Women's Athletic Footwear,60,725,435000,130500,0.3,Outlet,2021,Jan
+West Gear,1128299,2021-01-16,West,California,San Francisco,Men's Apparel,65,775,503750,251875,0.5,Outlet,2021,Jan
+West Gear,1128299,2021-01-17,West,California,San Francisco,Women's Apparel,80,775,620000,93000,0.15,Outlet,2021,Jan
+West Gear,1128299,2021-01-18,West,California,San Francisco,Men's Street Footwear,65,975,633750,221813,0.35000000000000003,Outlet,2021,Jan
+West Gear,1128299,2021-01-19,West,California,San Francisco,Men's Athletic Footwear,70,925,647500,129500,0.2,Outlet,2021,Jan
+West Gear,1128299,2021-01-20,West,California,San Francisco,Women's Street Footwear,65,800,520000,182000,0.35000000000000003,Outlet,2021,Jan
+West Gear,1128299,2021-01-21,West,California,San Francisco,Women's Athletic Footwear,65,750,487500,146250,0.3,Outlet,2021,Jan
+West Gear,1128299,2021-01-22,West,California,San Francisco,Men's Apparel,75,750,562500,281250,0.5,Outlet,2021,Jan
+West Gear,1128299,2021-01-23,West,California,San Francisco,Women's Apparel,80,725,580000,87000,0.15,Outlet,2021,Jan
+West Gear,1128299,2021-01-24,West,California,San Francisco,Men's Street Footwear,55,925,508750,152625,0.3,Outlet,2021,Jan
+West Gear,1128299,2021-01-25,West,California,San Francisco,Men's Athletic Footwear,60,925,555000,83250,0.15,Outlet,2021,Jan
+West Gear,1128299,2021-01-26,West,California,San Francisco,Women's Street Footwear,55,775,426250,127875,0.3,Outlet,2021,Jan
+West Gear,1128299,2021-01-28,West,California,San Francisco,Men's Apparel,65,725,471250,212063,0.45,Outlet,2021,Jan
+West Gear,1128299,2021-01-29,West,California,San Francisco,Women's Apparel,70,775,542500,54250,0.1,Outlet,2021,Jan
+West Gear,1128299,2021-01-30,West,California,San Francisco,Men's Street Footwear,55,875,481250,144375,0.3,Outlet,2021,Jan
+West Gear,1128299,2021-01-31,West,California,San Francisco,Men's Athletic Footwear,60,875,525000,78750,0.15,Outlet,2021,Jan
+West Gear,1128299,2021-02-03,West,California,San Francisco,Men's Apparel,65,650,422500,190125,0.45,Outlet,2021,Feb
+West Gear,1128299,2021-02-04,West,California,San Francisco,Women's Apparel,70,700,490000,49000,0.1,Outlet,2021,Feb
+West Gear,1128299,2021-02-05,West,California,San Francisco,Men's Street Footwear,55,875,481250,144375,0.3,Outlet,2021,Feb
+West Gear,1128299,2021-02-06,West,California,San Francisco,Men's Athletic Footwear,60,875,525000,78750,0.15,Outlet,2021,Feb
+West Gear,1128299,2021-02-09,West,California,San Francisco,Men's Apparel,65,650,422500,190125,0.45,Outlet,2021,Feb
+West Gear,1128299,2021-02-10,West,California,San Francisco,Women's Apparel,70,775,542500,54250,0.1,Outlet,2021,Feb
+West Gear,1128299,2021-02-11,West,California,San Francisco,Men's Street Footwear,55,975,536250,160875,0.3,Outlet,2021,Feb
+West Gear,1128299,2021-02-12,West,California,San Francisco,Men's Athletic Footwear,60,975,585000,87750,0.15,Outlet,2021,Feb
+West Gear,1128299,2021-02-13,West,California,San Francisco,Women's Street Footwear,55,775,426250,127875,0.3,Outlet,2021,Feb
+West Gear,1128299,2021-02-14,West,California,San Francisco,Women's Athletic Footwear,55,775,426250,106563,0.25,Outlet,2021,Feb
+West Gear,1128299,2021-02-15,West,California,San Francisco,Men's Apparel,65,700,455000,204750,0.45,Outlet,2021,Feb
+West Gear,1128299,2021-02-16,West,California,San Francisco,Women's Apparel,70,800,560000,56000,0.1,Outlet,2021,Feb
+Kohl's,1189833,2021-04-18,West,California,Los Angeles,Women's Apparel,65,625,406250,81250,0.2,Outlet,2021,Apr
+Kohl's,1189833,2021-04-19,West,California,Los Angeles,Men's Street Footwear,45,900,405000,162000,0.4,Outlet,2021,Apr
+Kohl's,1189833,2021-04-24,West,California,Los Angeles,Women's Apparel,65,800,520000,104000,0.2,Outlet,2021,Apr
+Kohl's,1189833,2021-04-25,West,California,Los Angeles,Men's Street Footwear,45,950,427500,171000,0.4,Outlet,2021,Apr
+Kohl's,1189833,2021-04-26,West,California,Los Angeles,Men's Athletic Footwear,50,800,400000,100000,0.25,Outlet,2021,Apr
+Kohl's,1189833,2021-04-30,West,California,Los Angeles,Women's Apparel,65,700,455000,91000,0.2,Outlet,2021,Apr
+Kohl's,1189833,2021-05-01,West,California,Los Angeles,Men's Street Footwear,50,900,450000,180000,0.4,Outlet,2021,May
+Kohl's,1189833,2021-05-02,West,California,Los Angeles,Men's Athletic Footwear,55,850,467500,116875,0.25,Outlet,2021,May
+Kohl's,1189833,2021-05-05,West,California,Los Angeles,Men's Apparel,60,675,405000,222750,0.55,Outlet,2021,May
+Kohl's,1189833,2021-05-06,West,California,Los Angeles,Women's Apparel,65,650,422500,84500,0.2,Outlet,2021,May
+Kohl's,1189833,2021-05-07,West,California,Los Angeles,Men's Street Footwear,50,850,425000,170000,0.4,Outlet,2021,May
+Kohl's,1189833,2021-05-08,West,California,Los Angeles,Men's Athletic Footwear,55,850,467500,116875,0.25,Outlet,2021,May
+Kohl's,1189833,2021-05-12,West,California,Los Angeles,Women's Apparel,65,700,455000,91000,0.2,Outlet,2021,May
+Kohl's,1189833,2021-05-13,West,California,Los Angeles,Men's Street Footwear,50,800,400000,160000,0.4,Outlet,2021,May
+Kohl's,1189833,2021-05-14,West,California,Los Angeles,Men's Athletic Footwear,55,800,440000,110000,0.25,Outlet,2021,May
+Kohl's,1189833,2021-05-18,West,California,Los Angeles,Women's Apparel,65,650,422500,84500,0.2,Outlet,2021,May
+Kohl's,1189833,2021-05-19,West,California,Los Angeles,Men's Street Footwear,50,825,412500,165000,0.4,Outlet,2021,May
+Kohl's,1189833,2021-05-20,West,California,Los Angeles,Men's Athletic Footwear,55,825,453750,113438,0.25,Outlet,2021,May
+Kohl's,1189833,2021-05-24,West,California,Los Angeles,Women's Apparel,65,700,455000,91000,0.2,Outlet,2021,May
+Kohl's,1189833,2021-05-25,West,California,Los Angeles,Men's Street Footwear,50,900,450000,180000,0.4,Outlet,2021,May
+Kohl's,1189833,2021-05-26,West,California,Los Angeles,Men's Athletic Footwear,55,900,495000,123750,0.25,Outlet,2021,May
+Kohl's,1189833,2021-05-30,West,California,Los Angeles,Women's Apparel,65,725,471250,94250,0.2,Outlet,2021,May
+Sports Direct,1197831,2021-09-11,South,Texas,Dallas,Men's Athletic Footwear,50,800,400000,140000,0.35000000000000003,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-15,South,Texas,Dallas,Women's Apparel,55,875,481250,240625,0.5,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-17,South,Texas,Dallas,Men's Athletic Footwear,50,825,412500,165000,0.4,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-18,South,Texas,Dallas,Women's Street Footwear,45,975,438750,175500,0.4,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-21,South,Texas,Dallas,Women's Apparel,60,850,510000,280500,0.55,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-22,South,Texas,Dallas,Men's Street Footwear,50,800,400000,160000,0.4,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-23,South,Texas,Dallas,Men's Athletic Footwear,55,800,440000,176000,0.4,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-24,South,Texas,Dallas,Women's Street Footwear,50,975,487500,195000,0.4,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-27,South,Texas,Dallas,Women's Apparel,60,775,465000,255750,0.55,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-30,South,Texas,Dallas,Women's Street Footwear,60,725,435000,174000,0.4,Outlet,2021,Sep
+Sports Direct,1197831,2021-10-12,South,Texas,Dallas,Women's Street Footwear,65,650,422500,169000,0.4,Outlet,2021,Oct
+Sports Direct,1197831,2021-10-15,South,Texas,Dallas,Women's Apparel,70,675,472500,259875,0.55,Outlet,2021,Oct
+Sports Direct,1197831,2021-10-16,South,Texas,Dallas,Men's Street Footwear,60,825,495000,198000,0.4,Outlet,2021,Oct
+Sports Direct,1197831,2021-10-17,South,Texas,Dallas,Men's Athletic Footwear,60,825,495000,198000,0.4,Outlet,2021,Oct
+Sports Direct,1197831,2021-10-18,South,Texas,Dallas,Women's Street Footwear,65,725,471250,188500,0.4,Outlet,2021,Oct
+Sports Direct,1197831,2021-10-21,South,Texas,Dallas,Women's Apparel,70,775,542500,298375,0.55,Outlet,2021,Oct
+West Gear,1128299,2020-02-01,West,Nevada,Las Vegas,Men's Street Footwear,60,700,420000,189000,0.45,Outlet,2020,Feb
+West Gear,1128299,2020-02-06,West,Nevada,Las Vegas,Women's Apparel,80,600,480000,120000,0.25,Outlet,2020,Feb
+West Gear,1128299,2020-02-07,West,Nevada,Las Vegas,Men's Street Footwear,60,750,450000,180000,0.4,Outlet,2020,Feb
+West Gear,1128299,2020-02-12,West,Nevada,Las Vegas,Women's Apparel,80,500,400000,80000,0.2,In-store,2020,Feb
+West Gear,1128299,2020-02-13,West,Nevada,Las Vegas,Men's Street Footwear,65,700,455000,182000,0.4,In-store,2020,Feb
+West Gear,1128299,2020-02-14,West,Nevada,Las Vegas,Men's Athletic Footwear,70,650,455000,113750,0.25,In-store,2020,Feb
+West Gear,1128299,2020-03-09,West,Nevada,Las Vegas,Men's Street Footwear,60,675,405000,141750,0.35000000000000003,In-store,2020,Mar
+West Gear,1128299,2020-03-10,West,Nevada,Las Vegas,Men's Athletic Footwear,65,675,438750,87750,0.2,In-store,2020,Mar
+West Gear,1128299,2020-04-14,West,Colorado,Denver,Men's Street Footwear,60,725,435000,217500,0.5,In-store,2020,Apr
+West Gear,1128299,2020-04-19,West,Colorado,Denver,Women's Apparel,85,625,531250,159375,0.3,In-store,2020,Apr
+West Gear,1128299,2020-04-20,West,Colorado,Denver,Men's Street Footwear,65,775,503750,226688,0.45,In-store,2020,Apr
+West Gear,1128299,2020-04-21,West,Colorado,Denver,Men's Athletic Footwear,70,625,437500,131250,0.3,In-store,2020,Apr
+West Gear,1128299,2020-04-22,West,Colorado,Denver,Women's Street Footwear,70,575,402500,181125,0.45,In-store,2020,Apr
+West Gear,1128299,2020-04-25,West,Colorado,Denver,Women's Apparel,85,525,446250,111563,0.25,In-store,2020,Apr
+West Gear,1128299,2020-04-26,West,Colorado,Denver,Men's Street Footwear,70,725,507500,228375,0.45,In-store,2020,Apr
+West Gear,1128299,2020-04-27,West,Colorado,Denver,Men's Athletic Footwear,75,675,506250,151875,0.3,In-store,2020,Apr
+West Gear,1128299,2020-05-03,West,Colorado,Denver,Men's Athletic Footwear,70,600,420000,105000,0.25,In-store,2020,May
+West Gear,1128299,2020-05-19,West,Colorado,Denver,Women's Apparel,80,500,400000,80000,0.2,In-store,2020,May
+West Gear,1128299,2020-05-20,West,Colorado,Denver,Men's Street Footwear,65,700,455000,182000,0.4,In-store,2020,May
+West Gear,1128299,2020-05-21,West,Colorado,Denver,Men's Athletic Footwear,70,700,490000,122500,0.25,In-store,2020,May
+West Gear,1128299,2020-05-25,West,Colorado,Denver,Women's Apparel,80,525,420000,84000,0.2,In-store,2020,May
+West Gear,1128299,2020-06-24,West,Washington,Seattle,Women's Apparel,80,500,400000,80000,0.2,In-store,2020,Jun
+West Gear,1128299,2020-06-25,West,Washington,Seattle,Men's Street Footwear,75,750,562500,168750,0.3,In-store,2020,Jun
+West Gear,1128299,2020-06-26,West,Washington,Seattle,Men's Athletic Footwear,80,625,500000,125000,0.25,In-store,2020,Jun
+West Gear,1128299,2020-06-27,West,Washington,Seattle,Women's Street Footwear,80,625,500000,125000,0.25,In-store,2020,Jun
+West Gear,1128299,2020-06-28,West,Washington,Seattle,Women's Athletic Footwear,80,500,400000,120000,0.3,In-store,2020,Jun
+West Gear,1128299,2020-06-30,West,Washington,Seattle,Women's Apparel,100,675,675000,135000,0.2,In-store,2020,Jun
+West Gear,1128299,2020-07-01,West,Washington,Seattle,Men's Street Footwear,80,825,660000,198000,0.3,In-store,2020,Jul
+West Gear,1128299,2020-07-02,West,Washington,Seattle,Men's Athletic Footwear,85,675,573750,143438,0.25,In-store,2020,Jul
+West Gear,1128299,2020-07-03,West,Washington,Seattle,Women's Street Footwear,85,625,531250,132813,0.25,In-store,2020,Jul
+West Gear,1128299,2020-07-04,West,Washington,Seattle,Women's Athletic Footwear,80,525,420000,126000,0.3,In-store,2020,Jul
+West Gear,1128299,2020-07-05,West,Washington,Seattle,Men's Apparel,85,575,488750,122188,0.25,In-store,2020,Jul
+West Gear,1128299,2020-07-06,West,Washington,Seattle,Women's Apparel,100,575,575000,115000,0.2,In-store,2020,Jul
+West Gear,1128299,2020-07-07,West,Washington,Seattle,Men's Street Footwear,85,775,658750,197625,0.3,In-store,2020,Jul
+West Gear,1128299,2020-07-08,West,Washington,Seattle,Men's Athletic Footwear,80,750,600000,150000,0.25,In-store,2020,Jul
+West Gear,1128299,2020-07-09,West,Washington,Seattle,Women's Street Footwear,75,625,468750,117188,0.25,In-store,2020,Jul
+West Gear,1128299,2020-07-10,West,Washington,Seattle,Women's Athletic Footwear,75,575,431250,129375,0.3,In-store,2020,Jul
+West Gear,1128299,2020-07-11,West,Washington,Seattle,Men's Apparel,75,575,431250,107813,0.25,In-store,2020,Jul
+West Gear,1128299,2020-07-13,West,Washington,Seattle,Men's Street Footwear,70,600,420000,126000,0.3,In-store,2020,Jul
+West Gear,1128299,2020-07-14,West,Washington,Seattle,Men's Athletic Footwear,75,600,450000,112500,0.25,In-store,2020,Jul
+West Gear,1128299,2020-07-26,West,Washington,Seattle,Men's Athletic Footwear,65,625,406250,101563,0.25,In-store,2020,Jul
+West Gear,1128299,2020-07-30,West,Washington,Seattle,Women's Apparel,95,550,522500,104500,0.2,In-store,2020,Jul
+West Gear,1128299,2020-07-31,West,Washington,Seattle,Men's Street Footwear,80,750,600000,180000,0.3,In-store,2020,Jul
+West Gear,1128299,2020-08-01,West,Washington,Seattle,Men's Athletic Footwear,85,750,637500,159375,0.25,In-store,2020,Aug
+West Gear,1128299,2020-08-02,West,Washington,Seattle,Women's Street Footwear,80,550,440000,110000,0.25,In-store,2020,Aug
+West Gear,1128299,2020-08-03,West,Washington,Seattle,Women's Athletic Footwear,80,550,440000,132000,0.3,In-store,2020,Aug
+West Gear,1128299,2020-08-04,West,Washington,Seattle,Men's Apparel,90,475,427500,106875,0.25,In-store,2020,Aug
+West Gear,1128299,2020-08-05,West,Washington,Seattle,Women's Apparel,95,575,546250,109250,0.2,In-store,2020,Aug
+Foot Locker,1185732,2020-08-06,West,Washington,Seattle,Men's Street Footwear,45,1050,472500,212625,0.45,In-store,2020,Aug
+Foot Locker,1185732,2020-08-10,Southeast,Florida,Miami,Men's Apparel,55,750,412500,144375,0.35000000000000003,In-store,2020,Aug
+Foot Locker,1185732,2020-08-12,Southeast,Florida,Miami,Men's Street Footwear,45,1100,495000,222750,0.45,In-store,2020,Aug
+Foot Locker,1185732,2020-08-16,Southeast,Florida,Miami,Men's Apparel,55,750,412500,144375,0.35000000000000003,In-store,2020,Aug
+Foot Locker,1185732,2020-08-18,Southeast,Florida,Miami,Men's Street Footwear,45,1070,481500,216675,0.45,In-store,2020,Aug
+Foot Locker,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,45,1025,461250,207563,0.45,In-store,2020,Apr
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,55,1070,588500,264825,0.45,In-store,2020,Apr
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,55,775,426250,149188,0.35000000000000003,In-store,2020,Apr
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Apparel,60,725,435000,152250,0.35000000000000003,In-store,2020,Apr
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Women's Apparel,65,825,536250,268125,0.5,In-store,2020,Apr
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Street Footwear,60,1075,645000,290250,0.45,In-store,2020,Apr
+West Gear,1185732,2020-04-24,Southeast,Florida,Miami,Men's Athletic Footwear,55,825,453750,158813,0.35000000000000003,In-store,2020,Apr
+West Gear,1185732,2020-09-07,Southeast,Florida,Miami,Women's Street Footwear,50,800,400000,100000,0.25,In-store,2020,Sep
+West Gear,1185732,2020-09-09,Southeast,Florida,Miami,Men's Apparel,65,775,503750,176313,0.35000000000000003,In-store,2020,Sep
+West Gear,1185732,2020-09-10,Southeast,Florida,Miami,Women's Apparel,70,925,647500,323750,0.5,In-store,2020,Sep
+West Gear,1185732,2020-09-12,Southeast,Florida,Miami,Men's Athletic Footwear,60,900,540000,189000,0.35000000000000003,In-store,2020,Sep
+West Gear,1185732,2020-09-13,Southeast,Florida,Miami,Women's Street Footwear,55,825,453750,113438,0.25,In-store,2020,Sep
+West Gear,1185732,2020-09-14,Southeast,Florida,Miami,Women's Athletic Footwear,55,775,426250,127875,0.3,In-store,2020,Sep
+West Gear,1185732,2020-09-15,Southeast,Florida,Miami,Men's Apparel,65,800,520000,182000,0.35000000000000003,In-store,2020,Sep
+West Gear,1185732,2020-09-16,Southeast,Florida,Miami,Women's Apparel,70,975,682500,341250,0.5,In-store,2020,Sep
+West Gear,1185732,2020-09-18,Southeast,Florida,Miami,Men's Athletic Footwear,60,900,540000,189000,0.35000000000000003,In-store,2020,Sep
+West Gear,1185732,2020-09-19,Southeast,Florida,Miami,Women's Street Footwear,55,825,453750,113438,0.25,In-store,2020,Sep
+Foot Locker,1185732,2020-09-21,Southeast,Florida,Miami,Men's Apparel,55,750,412500,144375,0.35000000000000003,In-store,2020,Sep
+Foot Locker,1185732,2020-09-22,Southeast,Florida,Miami,Women's Apparel,60,925,555000,277500,0.5,In-store,2020,Sep
+Foot Locker,1185732,2020-09-23,Southeast,Florida,Miami,Men's Street Footwear,55,1050,577500,259875,0.45,In-store,2020,Sep
+Foot Locker,1185732,2020-09-24,Southeast,Florida,Miami,Men's Athletic Footwear,50,850,425000,148750,0.35000000000000003,In-store,2020,Sep
+Sports Direct,1185732,2020-09-28,Southeast,Florida,Miami,Women's Apparel,60,825,495000,247500,0.5,In-store,2020,Sep
+Sports Direct,1185732,2020-09-29,Southeast,Florida,Miami,Men's Street Footwear,60,1000,600000,270000,0.45,In-store,2020,Sep
+Sports Direct,1185732,2020-09-30,Southeast,Florida,Miami,Men's Athletic Footwear,50,825,412500,144375,0.35000000000000003,In-store,2020,Sep
+Sports Direct,1185732,2020-10-03,Southeast,Florida,Miami,Men's Apparel,60,700,420000,147000,0.35000000000000003,In-store,2020,Oct
+Sports Direct,1185732,2020-10-04,Southeast,Florida,Miami,Women's Apparel,65,825,536250,268125,0.5,In-store,2020,Oct
+Sports Direct,1185732,2020-10-05,Southeast,Florida,Miami,Men's Street Footwear,60,975,585000,263250,0.45,In-store,2020,Oct
+Sports Direct,1185732,2020-10-06,Southeast,Florida,Miami,Men's Athletic Footwear,50,800,400000,140000,0.35000000000000003,In-store,2020,Oct
+Sports Direct,1185732,2020-10-09,Southeast,Florida,Miami,Men's Apparel,65,750,487500,170625,0.35000000000000003,In-store,2020,Oct
+Sports Direct,1185732,2020-10-10,Southeast,Florida,Miami,Women's Apparel,70,850,595000,297500,0.5,In-store,2020,Oct
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Street Footwear,65,1075,698750,314438,0.45,In-store,2020,May
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Men's Athletic Footwear,55,875,481250,168438,0.35000000000000003,In-store,2020,May
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Women's Street Footwear,55,825,453750,113438,0.25,In-store,2020,May
+Sports Direct,1185732,2020-05-24,Southeast,Florida,Miami,Women's Athletic Footwear,55,775,426250,127875,0.3,In-store,2020,May
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Men's Apparel,65,775,503750,176313,0.35000000000000003,In-store,2020,May
+Foot Locker,1185732,2020-05-24,Southeast,Florida,Miami,Women's Apparel,70,875,612500,306250,0.5,In-store,2020,May
+Sports Direct,1197831,2021-04-14,South,Tennessee,Knoxville,Women's Apparel,50,875,437500,240625,0.55,Outlet,2021,Apr
+Sports Direct,1197831,2021-04-20,South,Tennessee,Knoxville,Women's Apparel,55,825,453750,272250,0.6,Outlet,2021,Apr
+Sports Direct,1197831,2021-04-22,South,Tennessee,Knoxville,Men's Athletic Footwear,55,775,426250,191813,0.45,Outlet,2021,Apr
+Sports Direct,1197831,2021-04-23,South,Tennessee,Knoxville,Women's Street Footwear,50,950,475000,213750,0.45,Outlet,2021,Apr
+Sports Direct,1197831,2021-05-14,South,Tennessee,Knoxville,Women's Apparel,65,650,422500,253500,0.6,Outlet,2021,May
+Sports Direct,1197831,2021-05-15,South,Tennessee,Knoxville,Men's Street Footwear,55,800,440000,198000,0.45,Outlet,2021,May
+Sports Direct,1197831,2021-05-16,South,Tennessee,Knoxville,Men's Athletic Footwear,55,800,440000,198000,0.45,Outlet,2021,May
+Sports Direct,1197831,2021-05-17,South,Tennessee,Knoxville,Women's Street Footwear,60,700,420000,189000,0.45,Outlet,2021,May
+Sports Direct,1197831,2021-05-20,South,Tennessee,Knoxville,Women's Apparel,65,750,487500,292500,0.6,Outlet,2021,May
+Sports Direct,1197831,2021-09-05,South,Alabama,Birmingham,Women's Apparel,55,875,481250,288750,0.6,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-07,South,Alabama,Birmingham,Men's Athletic Footwear,50,825,412500,206250,0.5,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-08,South,Alabama,Birmingham,Women's Street Footwear,45,975,438750,219375,0.5,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-11,South,Alabama,Birmingham,Women's Apparel,60,800,480000,312000,0.65,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-13,South,Alabama,Birmingham,Men's Athletic Footwear,55,750,412500,206250,0.5,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-14,South,Alabama,Birmingham,Women's Street Footwear,55,925,508750,254375,0.5,Outlet,2021,Sep
+Sports Direct,1197831,2021-09-17,South,Alabama,Birmingham,Women's Apparel,60,675,405000,263250,0.65,Outlet,2021,Sep
+Sports Direct,1197831,2021-10-06,South,Alabama,Birmingham,Men's Street Footwear,60,775,465000,232500,0.5,Outlet,2021,Oct
+Sports Direct,1197831,2021-10-07,South,Alabama,Birmingham,Men's Athletic Footwear,60,775,465000,232500,0.5,Outlet,2021,Oct
+Sports Direct,1197831,2021-10-08,South,Alabama,Birmingham,Women's Street Footwear,65,700,455000,227500,0.5,Outlet,2021,Oct
+Sports Direct,1197831,2021-10-11,South,Alabama,Birmingham,Women's Apparel,70,750,525000,341250,0.65,Outlet,2021,Oct
+Amazon,1185732,2021-06-22,West,Alaska,Anchorage,Men's Street Footwear,65,650,422500,147875,0.35000000000000003,Outlet,2021,Jun
+Amazon,1185732,2021-07-20,West,Alaska,Anchorage,Men's Street Footwear,65,675,438750,153563,0.35000000000000003,Outlet,2021,Jul
+Amazon,1185732,2021-08-21,West,Alaska,Anchorage,Men's Street Footwear,65,650,422500,147875,0.35000000000000003,Outlet,2021,Aug
+Amazon,1185732,2021-12-20,West,Alaska,Anchorage,Men's Street Footwear,75,600,450000,157500,0.35000000000000003,Outlet,2021,Dec
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Street Footwear,70,725,507500,126875,0.25,Outlet,2021,Jun
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Men's Athletic Footwear,75,600,450000,90000,0.2,Outlet,2021,Jun
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Street Footwear,75,600,450000,112500,0.25,Outlet,2021,Jun
+Foot Locker,1128299,2021-06-10,West,Hawaii,Honolulu,Women's Apparel,100,650,650000,260000,0.4,Outlet,2021,Jun
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Street Footwear,80,800,640000,160000,0.25,Outlet,2021,Jul
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Athletic Footwear,85,650,552500,110500,0.2,Outlet,2021,Jul
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Street Footwear,85,600,510000,127500,0.25,Outlet,2021,Jul
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Athletic Footwear,80,500,400000,100000,0.25,Outlet,2021,Jul
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Men's Apparel,85,550,467500,70125,0.15,Outlet,2021,Jul
+Foot Locker,1128299,2021-07-09,West,Hawaii,Honolulu,Women's Apparel,100,550,550000,220000,0.4,Outlet,2021,Jul
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Street Footwear,85,750,637500,159375,0.25,Outlet,2021,Aug
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Men's Athletic Footwear,75,725,543750,108750,0.2,Outlet,2021,Aug
+Foot Locker,1128299,2021-08-10,West,Hawaii,Honolulu,Women's Street Footwear,70,600,420000,105000,0.25,Outlet,2021,Aug
+Walmart,1128299,2021-11-10,West,Hawaii,Honolulu,Women's Apparel,90,500,450000,180000,0.4,Outlet,2021,Nov
+Walmart,1128299,2021-12-09,West,Hawaii,Honolulu,Men's Street Footwear,75,700,525000,131250,0.25,Outlet,2021,Dec
+Walmart,1128299,2021-12-09,West,Hawaii,Honolulu,Men's Athletic Footwear,85,700,595000,119000,0.2,Outlet,2021,Dec
+Sports Direct,1128299,2021-12-09,West,Hawaii,Honolulu,Women's Street Footwear,80,500,400000,100000,0.25,Outlet,2021,Dec
+Sports Direct,1128299,2021-12-09,West,Hawaii,Honolulu,Women's Athletic Footwear,80,500,400000,100000,0.25,Outlet,2021,Dec
+Sports Direct,1128299,2021-12-09,West,Hawaii,Honolulu,Women's Apparel,95,525,498750,199500,0.4,Outlet,2021,Dec
+Walmart,1128299,2021-05-18,Southeast,Florida,Orlando,Women's Apparel,70,575,402500,181125,0.45,Outlet,2021,May
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Street Footwear,65,825,536250,160875,0.3,Outlet,2021,Jun
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Athletic Footwear,70,700,490000,122500,0.25,In-store,2021,Jun
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Street Footwear,85,700,595000,178500,0.3,In-store,2021,Jun
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Women's Athletic Footwear,85,575,488750,146625,0.3,In-store,2021,Jun
+Walmart,1128299,2021-06-17,Southeast,Florida,Orlando,Men's Apparel,95,450,427500,85500,0.2,In-store,2021,Jun
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Street Footwear,95,700,665000,199500,0.3,In-store,2021,Jul
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Women's Athletic Footwear,90,600,540000,162000,0.3,In-store,2021,Jul
+Walmart,1128299,2021-07-16,Southeast,Florida,Orlando,Men's Apparel,95,650,617500,123500,0.2,In-store,2021,Jul
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Men's Athletic Footwear,85,825,701250,175313,0.25,In-store,2021,Aug
+Walmart,1128299,2021-08-17,Southeast,Florida,Orlando,Women's Street Footwear,80,700,560000,168000,0.3,In-store,2021,Aug
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Athletic Footwear,60,700,420000,105000,0.25,In-store,2021,Nov
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Men's Apparel,85,475,403750,80750,0.2,In-store,2021,Nov
+Walmart,1128299,2021-11-17,Southeast,Florida,Orlando,Women's Apparel,90,600,540000,243000,0.45,In-store,2021,Nov
+Walmart,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Street Footwear,75,800,600000,180000,0.3,In-store,2021,Dec
+Walmart,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Athletic Footwear,85,800,680000,170000,0.25,In-store,2021,Dec
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Street Footwear,80,600,480000,144000,0.3,In-store,2021,Dec
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Athletic Footwear,80,600,480000,144000,0.3,In-store,2021,Dec
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Men's Apparel,90,525,472500,94500,0.2,In-store,2021,Dec
+West Gear,1128299,2021-12-16,Southeast,Florida,Orlando,Women's Apparel,95,625,593750,267188,0.45,In-store,2021,Dec
+West Gear,1185732,2021-02-10,Southeast,Florida,Orlando,Men's Street Footwear,45,900,405000,182250,0.45,In-store,2021,Feb
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Men's Street Footwear,55,870,478500,215325,0.45,In-store,2021,May
+West Gear,1185732,2021-05-08,Northeast,New York,Albany,Women's Apparel,65,625,406250,203125,0.5,In-store,2021,May
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Men's Street Footwear,60,875,525000,236250,0.45,In-store,2021,Jun
+West Gear,1185732,2021-06-10,Northeast,New York,Albany,Women's Apparel,70,725,507500,253750,0.5,In-store,2021,Jun
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Men's Street Footwear,65,950,617500,277875,0.45,In-store,2021,Jul
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Men's Athletic Footwear,60,700,420000,147000,0.35000000000000003,In-store,2021,Jul
+West Gear,1185732,2021-07-08,Northeast,New York,Albany,Women's Apparel,70,775,542500,271250,0.5,In-store,2021,Jul
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Men's Street Footwear,65,925,601250,270563,0.45,In-store,2021,Aug
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Men's Athletic Footwear,60,700,420000,147000,0.35000000000000003,In-store,2021,Aug
+West Gear,1185732,2021-08-09,Northeast,New York,Albany,Women's Apparel,60,725,435000,217500,0.5,In-store,2021,Aug
+West Gear,1185732,2021-09-08,Northeast,New York,Albany,Men's Street Footwear,55,850,467500,210375,0.45,In-store,2021,Sep
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Men's Street Footwear,60,800,480000,216000,0.45,In-store,2021,Oct
+West Gear,1185732,2021-10-10,Northeast,New York,Albany,Women's Apparel,65,625,406250,203125,0.5,In-store,2021,Oct
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Men's Street Footwear,60,775,465000,209250,0.45,In-store,2021,Nov
+West Gear,1185732,2021-11-09,Northeast,New York,Albany,Women's Apparel,70,650,455000,227500,0.5,In-store,2021,Nov
+West Gear,1185732,2021-12-08,Northeast,New York,Albany,Men's Street Footwear,65,875,568750,255938,0.45,In-store,2021,Dec
+Kohl's,1185732,2021-12-08,Northeast,New York,Albany,Women's Apparel,70,675,472500,236250,0.5,In-store,2021,Dec
+Kohl's,1185732,2021-05-10,West,Wyoming,Cheyenne,Men's Street Footwear,50,820,410000,205000,0.5,In-store,2021,May
+Kohl's,1185732,2021-06-12,West,Wyoming,Cheyenne,Men's Street Footwear,50,850,425000,212500,0.5,In-store,2021,Jun
+Kohl's,1185732,2021-07-10,West,Wyoming,Cheyenne,Men's Street Footwear,50,875,437500,218750,0.5,In-store,2021,Jul
+Kohl's,1185732,2021-08-11,West,Wyoming,Cheyenne,Men's Street Footwear,50,850,425000,212500,0.5,In-store,2021,Aug
+Kohl's,1185732,2021-09-10,West,Wyoming,Cheyenne,Men's Street Footwear,50,800,400000,200000,0.5,In-store,2021,Sep
+Kohl's,1185732,2021-10-12,West,Wyoming,Cheyenne,Men's Street Footwear,55,775,426250,213125,0.5,In-store,2021,Oct
+Kohl's,1185732,2021-11-11,West,Wyoming,Cheyenne,Men's Street Footwear,55,750,412500,206250,0.5,In-store,2021,Nov
+Kohl's,1185732,2021-12-10,West,Wyoming,Cheyenne,Men's Street Footwear,55,800,440000,220000,0.5,In-store,2021,Dec
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Street Footwear,55,775,426250,149188,0.35000000000000003,In-store,2021,Jun
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,65,650,422500,147875,0.35000000000000003,In-store,2021,Jun
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Street Footwear,80,650,520000,182000,0.35000000000000003,In-store,2021,Jun
+Foot Locker,1128299,2021-06-24,Southeast,Virginia,Richmond,Women's Athletic Footwear,80,525,420000,147000,0.35000000000000003,In-store,2021,Jun
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,90,700,630000,220500,0.35000000000000003,In-store,2021,Jul
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Street Footwear,90,650,585000,204750,0.35000000000000003,In-store,2021,Jul
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Athletic Footwear,85,550,467500,163625,0.35000000000000003,In-store,2021,Jul
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Men's Apparel,90,600,540000,216000,0.4,In-store,2021,Jul
+Foot Locker,1128299,2021-07-23,Southeast,Virginia,Richmond,Women's Apparel,105,600,630000,189000,0.3,In-store,2021,Jul
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Men's Athletic Footwear,80,775,620000,217000,0.35000000000000003,In-store,2021,Aug
+Foot Locker,1128299,2021-08-24,Southeast,Virginia,Richmond,Women's Street Footwear,70,650,455000,159250,0.35000000000000003,In-store,2021,Aug
+Foot Locker,1128299,2021-11-24,Southeast,Virginia,Richmond,Women's Apparel,80,550,440000,132000,0.3,In-store,2021,Nov
+Foot Locker,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Street Footwear,65,750,487500,170625,0.35000000000000003,In-store,2021,Dec
+Foot Locker,1128299,2021-12-23,Southeast,Virginia,Richmond,Men's Athletic Footwear,75,750,562500,196875,0.35000000000000003,In-store,2021,Dec
+Sports Direct,1128299,2021-12-23,Southeast,Virginia,Richmond,Women's Apparel,85,575,488750,146625,0.3,In-store,2021,Dec
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Men's Street Footwear,55,825,453750,226875,0.5,In-store,2021,Jun
+Sports Direct,1185732,2021-06-17,Midwest,Michigan,Detroit,Women's Apparel,65,675,438750,241313,0.55,In-store,2021,Jun
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Men's Street Footwear,60,900,540000,270000,0.5,In-store,2021,Jul
+Sports Direct,1185732,2021-07-15,Midwest,Michigan,Detroit,Women's Apparel,65,725,471250,259188,0.55,In-store,2021,Jul
+Sports Direct,1185732,2021-08-16,Midwest,Michigan,Detroit,Men's Street Footwear,60,875,525000,262500,0.5,In-store,2021,Aug
+Sports Direct,1185732,2021-11-16,Midwest,Michigan,Detroit,Women's Apparel,65,625,406250,223438,0.55,In-store,2021,Nov
+Sports Direct,1185732,2021-12-15,Midwest,Michigan,Detroit,Men's Street Footwear,60,850,510000,255000,0.5,In-store,2021,Dec
+Foot Locker,1185732,2021-12-15,Midwest,Michigan,Detroit,Women's Apparel,65,650,422500,232375,0.55,In-store,2021,Dec
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Street Footwear,55,775,426250,149188,0.35000000000000003,In-store,2021,Jun
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Men's Athletic Footwear,65,650,422500,147875,0.35000000000000003,In-store,2021,Jun
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Street Footwear,80,650,520000,182000,0.35000000000000003,In-store,2021,Jun
+West Gear,1128299,2021-06-24,West,Oregon,Portland,Women's Athletic Footwear,80,525,420000,147000,0.35000000000000003,In-store,2021,Jun
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Athletic Footwear,90,700,630000,220500,0.35000000000000003,In-store,2021,Jul
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Street Footwear,90,650,585000,204750,0.35000000000000003,In-store,2021,Jul
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Athletic Footwear,85,550,467500,163625,0.35000000000000003,In-store,2021,Jul
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Men's Apparel,90,600,540000,216000,0.4,In-store,2021,Jul
+West Gear,1128299,2021-07-23,West,Oregon,Portland,Women's Apparel,105,600,630000,189000,0.3,In-store,2021,Jul
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Men's Athletic Footwear,80,775,620000,217000,0.35000000000000003,In-store,2021,Aug
+West Gear,1128299,2021-08-24,West,Oregon,Portland,Women's Street Footwear,70,650,455000,159250,0.35000000000000003,In-store,2021,Aug
+West Gear,1128299,2021-11-24,West,Oregon,Portland,Women's Apparel,80,550,440000,132000,0.3,In-store,2021,Nov
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Street Footwear,65,750,487500,170625,0.35000000000000003,In-store,2021,Dec
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Men's Athletic Footwear,75,750,562500,196875,0.35000000000000003,In-store,2021,Dec
+West Gear,1128299,2021-12-23,West,Oregon,Portland,Women's Apparel,85,575,488750,146625,0.3,In-store,2021,Dec
+West Gear,1128299,2021-06-17,South,Louisiana,New Orleans,Men's Street Footwear,60,825,495000,198000,0.4,Online,2021,Jun
+West Gear,1128299,2021-06-17,South,Louisiana,New Orleans,Men's Athletic Footwear,70,700,490000,196000,0.4,Online,2021,Jun
+West Gear,1128299,2021-06-17,South,Louisiana,New Orleans,Women's Street Footwear,85,700,595000,238000,0.4,Online,2021,Jun
+West Gear,1128299,2021-06-17,South,Louisiana,New Orleans,Women's Athletic Footwear,85,575,488750,195500,0.4,Online,2021,Jun
+West Gear,1128299,2021-06-17,South,Louisiana,New Orleans,Men's Apparel,95,450,427500,192375,0.45,Online,2021,Jun
+West Gear,1128299,2021-07-16,South,Louisiana,New Orleans,Women's Street Footwear,95,700,665000,266000,0.4,Online,2021,Jul
+West Gear,1128299,2021-07-16,South,Louisiana,New Orleans,Women's Athletic Footwear,90,600,540000,216000,0.4,Online,2021,Jul
+West Gear,1128299,2021-07-16,South,Louisiana,New Orleans,Men's Apparel,95,650,617500,277875,0.45,Online,2021,Jul
+West Gear,1128299,2021-08-17,South,Louisiana,New Orleans,Men's Athletic Footwear,85,825,701250,280500,0.4,Online,2021,Aug
+West Gear,1128299,2021-08-17,South,Louisiana,New Orleans,Women's Street Footwear,75,700,525000,210000,0.4,Online,2021,Aug
+West Gear,1128299,2021-11-17,South,Louisiana,New Orleans,Women's Apparel,85,600,510000,178500,0.35000000000000003,Online,2021,Nov
+West Gear,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Street Footwear,70,800,560000,224000,0.4,Online,2021,Dec
+West Gear,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Athletic Footwear,80,800,640000,256000,0.4,Online,2021,Dec
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Street Footwear,75,600,450000,180000,0.4,Online,2021,Dec
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Athletic Footwear,75,600,450000,180000,0.4,Online,2021,Dec
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Men's Apparel,85,525,446250,200813,0.45,Online,2021,Dec
+Foot Locker,1128299,2021-12-16,South,Louisiana,New Orleans,Women's Apparel,90,625,562500,196875,0.35000000000000003,Online,2021,Dec
+West Gear,1197831,2021-06-04,West,Idaho,Boise,Women's Apparel,60,825,495000,247500,0.5,Online,2021,Jun
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Men's Athletic Footwear,55,775,426250,170500,0.4,Online,2021,Jul
+West Gear,1197831,2021-07-06,West,Idaho,Boise,Women's Street Footwear,50,925,462500,185000,0.4,Online,2021,Jul
+Foot Locker,1197831,2021-07-06,West,Idaho,Boise,Women's Apparel,65,800,520000,286000,0.55,Online,2021,Jul
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Men's Athletic Footwear,55,750,412500,165000,0.4,Online,2021,Aug
+Foot Locker,1197831,2021-08-08,West,Idaho,Boise,Women's Street Footwear,50,925,462500,185000,0.4,Online,2021,Aug
+Sports Direct,1197831,2021-08-08,West,Idaho,Boise,Women's Apparel,60,725,435000,239250,0.55,Online,2021,Aug
+Sports Direct,1197831,2021-09-05,West,Idaho,Boise,Women's Street Footwear,60,675,405000,162000,0.4,Online,2021,Sep
+Sports Direct,1197831,2021-11-05,West,Idaho,Boise,Women's Apparel,65,625,406250,223438,0.55,Online,2021,Nov
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Street Footwear,55,775,426250,170500,0.4,Online,2021,Dec
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Men's Athletic Footwear,55,775,426250,170500,0.4,Online,2021,Dec
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Street Footwear,60,675,405000,162000,0.4,Online,2021,Dec
+Foot Locker,1197831,2021-12-04,West,Idaho,Boise,Women's Apparel,65,725,471250,259188,0.55,Online,2021,Dec
+Kohl's,1128299,2021-06-26,West,New Mexico,Albuquerque,Women's Apparel,75,600,450000,112500,0.25,Online,2021,Jun
+Kohl's,1128299,2021-07-25,West,New Mexico,Albuquerque,Men's Street Footwear,55,750,412500,144375,0.35000000000000003,Online,2021,Jul
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Street Footwear,60,700,420000,147000,0.35000000000000003,Online,2021,Aug
+Kohl's,1128299,2021-08-26,West,New Mexico,Albuquerque,Men's Athletic Footwear,65,650,422500,169000,0.4,Online,2021,Aug
+Kohl's,1128299,2021-12-25,West,New Mexico,Albuquerque,Men's Street Footwear,60,700,420000,147000,0.35000000000000003,Online,2021,Dec
+Kohl's,1128299,2021-12-25,West,New Mexico,Albuquerque,Men's Athletic Footwear,65,700,455000,182000,0.4,Online,2021,Dec
+Sports Direct,1128299,2021-06-13,Southeast,Georgia,Atlanta,Women's Apparel,70,575,402500,100625,0.25,Online,2021,Jun
+Sports Direct,1128299,2021-12-12,Southeast,Georgia,Atlanta,Men's Athletic Footwear,60,675,405000,162000,0.4,Online,2021,Dec
+Foot Locker,1185732,2021-01-09,Southeast,Georgia,Atlanta,Men's Street Footwear,40,1025,410000,184500,0.45,Online,2021,Jan
+Foot Locker,1185732,2021-02-07,Southeast,Georgia,Atlanta,Men's Street Footwear,40,1075,430000,193500,0.45,Online,2021,Feb
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Men's Street Footwear,50,1045,522500,235125,0.45,Online,2021,May
+Foot Locker,1185732,2021-05-05,Southeast,South Carolina,Charleston,Women's Apparel,60,800,480000,240000,0.5,Online,2021,May
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Street Footwear,55,1050,577500,259875,0.45,Online,2021,Jun
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Athletic Footwear,50,800,400000,140000,0.35000000000000003,Online,2021,Jun
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Men's Apparel,65,750,487500,170625,0.35000000000000003,Online,2021,Jun
+Foot Locker,1185732,2021-06-07,Southeast,South Carolina,Charleston,Women's Apparel,70,925,647500,323750,0.5,Online,2021,Jun
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60,900,540000,189000,0.35000000000000003,Online,2021,Jul
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Street Footwear,55,825,453750,113438,0.25,Online,2021,Jul
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,55,775,426250,127875,0.3,Online,2021,Jul
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Men's Apparel,65,800,520000,182000,0.35000000000000003,Online,2021,Jul
+Foot Locker,1185732,2021-07-05,Southeast,South Carolina,Charleston,Women's Apparel,70,975,682500,341250,0.5,Online,2021,Jul
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60,900,540000,189000,0.35000000000000003,Online,2021,Aug
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Street Footwear,55,825,453750,113438,0.25,Online,2021,Aug
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Men's Apparel,55,750,412500,144375,0.35000000000000003,Online,2021,Aug
+Foot Locker,1185732,2021-08-06,Southeast,South Carolina,Charleston,Women's Apparel,60,925,555000,277500,0.5,Online,2021,Aug
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Street Footwear,55,1025,563750,253688,0.45,Online,2021,Sep
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,50,825,412500,144375,0.35000000000000003,Online,2021,Sep
+Foot Locker,1185732,2021-09-05,Southeast,South Carolina,Charleston,Women's Apparel,55,800,440000,220000,0.5,Online,2021,Sep
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Men's Street Footwear,55,975,536250,241313,0.45,Online,2021,Oct
+Foot Locker,1185732,2021-10-07,Southeast,South Carolina,Charleston,Women's Apparel,60,775,465000,232500,0.5,Online,2021,Oct
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Street Footwear,55,925,508750,228938,0.45,Online,2021,Nov
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Athletic Footwear,55,750,412500,123750,0.3,Online,2021,Nov
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Men's Apparel,70,725,507500,177625,0.35000000000000003,Online,2021,Nov
+Foot Locker,1185732,2021-11-06,Southeast,South Carolina,Charleston,Women's Apparel,75,825,618750,309375,0.5,Online,2021,Nov
+Foot Locker,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Athletic Footwear,60,875,525000,183750,0.35000000000000003,Online,2021,Dec
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Street Footwear,60,825,495000,123750,0.25,Online,2021,Dec
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Athletic Footwear,60,775,465000,139500,0.3,Online,2021,Dec
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Men's Apparel,70,775,542500,189875,0.35000000000000003,Online,2021,Dec
+Sports Direct,1185732,2021-12-05,Southeast,South Carolina,Charleston,Women's Apparel,75,875,656250,328125,0.5,Online,2021,Dec
+Sports Direct,1185732,2021-05-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,45,945,425250,170100,0.4,Online,2021,May
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Men's Street Footwear,50,950,475000,190000,0.4,Online,2021,Jun
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Men's Apparel,65,650,422500,147875,0.35000000000000003,Online,2021,Jun
+Sports Direct,1185732,2021-06-04,Southeast,North Carolina,Charlotte,Women's Apparel,70,825,577500,288750,0.5,Online,2021,Jun
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,65,1050,682500,273000,0.4,Online,2021,Jul
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,60,800,480000,168000,0.35000000000000003,Online,2021,Jul
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Men's Apparel,65,700,455000,159250,0.35000000000000003,Online,2021,Jul
+Sports Direct,1185732,2021-07-02,Southeast,North Carolina,Charlotte,Women's Apparel,70,875,612500,306250,0.5,Online,2021,Jul
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Men's Street Footwear,65,1025,666250,266500,0.4,Online,2021,Aug
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,60,800,480000,168000,0.35000000000000003,Online,2021,Aug
+Sports Direct,1185732,2021-08-03,Southeast,North Carolina,Charlotte,Women's Apparel,60,825,495000,247500,0.5,Online,2021,Aug
+Sports Direct,1185732,2021-09-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,55,925,508750,203500,0.4,Online,2021,Sep
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Men's Apparel,75,625,468750,164063,0.35000000000000003,Online,2021,Nov
+Sports Direct,1185732,2021-11-03,Southeast,North Carolina,Charlotte,Women's Apparel,75,725,543750,271875,0.5,Online,2021,Nov
+Sports Direct,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Men's Street Footwear,70,975,682500,273000,0.4,Online,2021,Dec
+Sports Direct,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Men's Athletic Footwear,60,775,465000,162750,0.35000000000000003,Online,2021,Dec
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Women's Street Footwear,60,725,435000,174000,0.4,Online,2021,Dec
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Women's Athletic Footwear,60,675,405000,162000,0.4,Online,2021,Dec
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Men's Apparel,70,675,472500,165375,0.35000000000000003,Online,2021,Dec
+Amazon,1185732,2021-12-02,Southeast,North Carolina,Charlotte,Women's Apparel,75,775,581250,290625,0.5,Online,2021,Dec
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Men's Street Footwear,50,800,400000,160000,0.4,Online,2021,Jun
+Amazon,1185732,2021-06-11,Midwest,Ohio,Columbus,Women's Apparel,70,675,472500,236250,0.5,Online,2021,Jun
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Men's Street Footwear,65,900,585000,234000,0.4,Online,2021,Jul
+Amazon,1185732,2021-07-09,Midwest,Ohio,Columbus,Women's Apparel,70,725,507500,253750,0.5,Online,2021,Jul
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Men's Street Footwear,65,875,568750,227500,0.4,Online,2021,Aug
+Amazon,1185732,2021-08-10,Midwest,Ohio,Columbus,Women's Apparel,60,675,405000,202500,0.5,Online,2021,Aug
+Amazon,1185732,2021-09-09,Midwest,Ohio,Columbus,Men's Street Footwear,55,775,426250,170500,0.4,Online,2021,Sep
+Amazon,1185732,2021-11-10,Midwest,Ohio,Columbus,Women's Apparel,80,575,460000,230000,0.5,Online,2021,Nov
+Amazon,1185732,2021-12-09,Midwest,Ohio,Columbus,Men's Street Footwear,75,825,618750,247500,0.4,Online,2021,Dec
+Amazon,1185732,2021-12-09,Midwest,Ohio,Columbus,Men's Athletic Footwear,65,625,406250,142188,0.35000000000000003,Online,2021,Dec
+West Gear,1185732,2021-12-09,Midwest,Ohio,Columbus,Women's Apparel,80,625,500000,250000,0.5,Online,2021,Dec
+Foot Locker,1185732,2021-06-18,South,Mississippi,Jackson,Women's Apparel,65,625,406250,203125,0.5,Online,2021,Jun
+Foot Locker,1185732,2021-07-16,South,Mississippi,Jackson,Men's Street Footwear,60,850,510000,204000,0.4,Online,2021,Jul
+Walmart,1185732,2021-07-16,South,Mississippi,Jackson,Women's Apparel,65,675,438750,219375,0.5,Online,2021,Jul
+Walmart,1185732,2021-08-17,South,Mississippi,Jackson,Men's Street Footwear,60,825,495000,198000,0.4,Online,2021,Aug
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Men's Street Footwear,70,775,542500,217000,0.4,Online,2021,Dec
+Sports Direct,1185732,2021-12-16,South,Mississippi,Jackson,Women's Apparel,75,575,431250,215625,0.5,Online,2021,Dec
+Walmart,1197831,2021-07-19,South,Arkansas,Little Rock,Men's Street Footwear,55,775,426250,170500,0.4,Online,2021,Jul
+Walmart,1197831,2021-08-20,South,Arkansas,Little Rock,Men's Street Footwear,60,750,450000,180000,0.4,Online,2021,Aug
+West Gear,1197831,2021-12-19,South,Arkansas,Little Rock,Men's Street Footwear,70,700,490000,196000,0.4,Online,2021,Dec
+West Gear,1197831,2021-08-20,South,Oklahoma,Oklahoma City,Men's Street Footwear,60,675,405000,162000,0.4,Online,2021,Aug
+Kohl's,1197831,2021-12-19,South,Oklahoma,Oklahoma City,Men's Street Footwear,70,625,437500,175000,0.4,Online,2021,Dec
+Foot Locker,1197831,2021-12-12,Midwest,Kansas,Wichita,Men's Street Footwear,70,600,420000,147000,0.35000000000000003,Online,2021,Dec
+Foot Locker,1185732,2021-12-16,Northeast,West Virginia,Charleston,Men's Street Footwear,65,650,422500,169000,0.4,In-store,2021,Dec
+Amazon,1185732,2021-07-10,Northeast,Vermont,Burlington,Men's Street Footwear,60,675,405000,182250,0.45,In-store,2021,Jul
+Amazon,1185732,2021-12-10,Northeast,Vermont,Burlington,Men's Street Footwear,70,600,420000,189000,0.45,In-store,2021,Dec
+Amazon,1185732,2021-06-19,Northeast,New Hampshire,Manchester,Men's Street Footwear,65,675,438750,175500,0.4,In-store,2021,Jun
+Amazon,1185732,2021-07-17,Northeast,New Hampshire,Manchester,Men's Street Footwear,65,700,455000,182000,0.4,In-store,2021,Jul
+Amazon,1185732,2021-08-18,Northeast,New Hampshire,Manchester,Men's Street Footwear,65,675,438750,175500,0.4,Outlet,2021,Aug
+Foot Locker,1185732,2021-12-17,Northeast,New Hampshire,Manchester,Men's Street Footwear,75,625,468750,187500,0.4,Outlet,2021,Dec
